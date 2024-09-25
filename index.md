@@ -1,2 +1,2 @@
-![Sangharsh](c:\Users\chopr\Pictures\Screenshots\sangharsh.png)
+![Sangharsh](./image/sangharsh.png)
 
